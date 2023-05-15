@@ -365,7 +365,7 @@ public class Instance {
         String[] segments;
 
         List<Arc> tasks = new LinkedList<>();
-
+        //Prefare for reading gdb/*.dat file
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
             reader.readLine(); // line 1: " NOMBRE : xxx"
             reader.readLine(); // line 2: " COMENTARIO : xxx (cota superior)"
