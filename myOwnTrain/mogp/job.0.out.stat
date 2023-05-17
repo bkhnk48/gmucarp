@@ -1,0 +1,415 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4881.600156416302]
+Tree 0:
+ (- CFH SC)
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4845.805672179532]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (max CTD CFD)) CTD)) (min (/ FRT CFH) (+ CTD CTD)))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4617.285395322339]
+Tree 0:
+ (/ (max (min (+ CFD RQ) (max DC CFH)) SC) (+ CFD (max (max CTD DEM) FULL)))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4564.833091659683]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (min FULL RQ)) CTD)) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (* SC FUT)) (- (min CR CFH) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4564.833091659683]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (min FULL RQ)) CTD)) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (* SC FUT)) (- (* (- (max CR DC) (/ CTD FULL)) (* (min CFH FRT) (max SC CR))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4564.833091659683]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (min FULL RQ)) CTD)) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (* SC FUT)) (- (min CR CFH) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4564.833091659683]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (min FULL RQ)) CTD)) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (* SC FUT)) (- (max CFH CTD) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4564.833091659683]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (/ CFD (* SC FUT)) (/ (/ FUT FUT) (+ FULL CFD)))) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (* SC FUT)) (- (max CFH CTD) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4423.971230381717]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (/ FUT FUT)) CTD)) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (min CR CFH) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4423.971230381717]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (/ FUT FUT)) CTD)) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (min CR CFH) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4423.971230381717]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (/ FUT FUT)) CTD)) (min (* (min (- FULL FULL) (/ SC FULL)) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (min CR CFH) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4420.019107353909]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max (min CFD (/ FUT FUT)) CTD)) (min (* (min FULL RQ) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (max (max DC DEM) (max CR CFD)) (/ (/ CFH FUT) (min FRT FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4413.384240290619]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (min FULL RQ) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (- FULL FULL) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4413.384240290619]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min SC (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (- FULL FULL) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4413.384240290619]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min SC (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (- FULL FULL) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4411.734974914439]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (max FUT CTD)) (min (* (* (min (- FULL FULL) (/ SC FULL)) FUT) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (max (max DC DEM) (max CR CFD)) (/ (/ CFD FUT) (min RQ FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4410.2656033756]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (min FULL RQ) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (max (min RQ CTD) (max CR CFD)) (/ (/ CFH FUT) (min FRT FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4410.2656033756]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (min FULL RQ) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (max (min RQ CTD) (max CR CFD)) (/ (/ CFH FUT) (min FRT FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4410.225245550784]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (min FULL RQ) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (max (min RQ CTD) (max CR CFD)) (/ (/ CFH FUT) (min FRT FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4404.486119895692]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (* (min (- FULL FULL) (/ SC FULL)) FUT) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (- (- FULL FULL) (min CTD CFD)) (/ (/ CFD FUT) (min RQ FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4404.486119895692]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (* (min (- FULL FULL) (/ (/ CFH FUT) (min FRT FRT))) FUT) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (- (- FULL FULL) (min CTD CFD)) (/ (/ CFD FUT) (min RQ FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4400.197246537881]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ FUT) (- CR CFH)) (min FRT (min (+ CR FUT) (min CFD CR))))) (min (* (min FULL RQ) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (max (min RQ CTD) (max CR CFD)) (/ (/ CFH FUT) (min FRT FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4400.197246537881]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (/ (- (- RQ FUT) (- CR CFH)) (min FRT (min (+ CR FUT) (min CFD CR))))) (min (* (min FULL RQ) FUT) (max (/ CFD (- (- FULL FULL) (min CTD CFD))) (- (max (max (min RQ CTD) (max CR CFD)) (/ (/ CFH FUT) (min FRT FRT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4394.970582871381]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (* (min (- FULL FULL) (/ SC FULL)) FUT) FUT) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max (max (max CFD DEM) (max CR CFD)) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4394.970582871381]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (* (min (- FULL FULL) (/ SC FULL)) FUT) FUT) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max (max (max CFD DEM) (max CR CFD)) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4394.970582871381]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (* (min (- FULL FULL) (/ SC FULL)) FUT) FUT) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max (max (max CFD DEM) (max CR CFD)) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4394.8985468413475]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CTD CFD)))) (min (* (* (min (- FULL FULL) (/ SC FULL)) FUT) FUT) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max CTD (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4394.176278766843]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ FUT) (- CR CFH)) (min FRT DC))) (min (* (* (min (- FULL FULL) (/ SC FULL)) FUT) FUT) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max (max (max CFD DEM) (max CR CFD)) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4394.164730378894]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (* (* (min (- FULL FULL) (- CR CFH)) FUT) FUT) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4384.805627071846]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (+ CR FUT) (min CFD CR)))) (min (- CR CFH) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4384.616661807594]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (max (max (- FULL FULL) (max CR CFD)) (/ (/ CFH FUT) (min FRT FRT))) CTD))) (min (- CR CFH) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max CTD (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4384.616661807594]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (min CFD (/ FUT FUT)) (min CTD CFD))) (/ (- (- RQ CFD) (- CR CFH)) (min (max (max (- FULL FULL) (max CR CFD)) (/ SC FULL)) CTD))) (min (- CR CFH) (max (/ CFD (- (min FULL RQ) (min CTD CFD))) (- (max CTD (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (- FULL FULL) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min (/ CFD FUT) CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.26629998126]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (+ FULL CFD)) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.159117190699]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (min (- RQ FULL) CFD) (- (* FULL SC) (min CFH RQ)))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.159117190699]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (min (- RQ FULL) CFD) (- (* FULL SC) (min CFH RQ)))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4383.159117190699]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (min (- RQ FULL) CFD) (- (* FULL SC) (min CFH RQ)))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4382.955594132608]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (/ FUT FUT) (- (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (min CFH RQ)))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4382.955594132608]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (/ FUT FUT) (- (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (min CFH RQ)))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4382.955594132608]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (/ FUT FUT) (- (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (min CFH RQ)))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4382.955594132608]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (/ FUT FUT) (- (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (min CFH RQ)))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4353.573964911196]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (min (- RQ FULL) CFD) (min RQ CTD))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4353.573964911196]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (min (- RQ FULL) CFD) (min RQ CTD))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4353.573964911196]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (min (- RQ FULL) CFD) (min RQ CTD))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: [4353.573964911196]
+Tree 0:
+ (- (min (- (- CFH (max CFD FRT)) (/ (/ FUT FUT) (+ FULL CFD))) (- (min (- RQ FULL) CFD) (min RQ CTD))) (min (- CR CFH) (max (/ CFD (- (- FULL (/ CFD FUT)) (min CTD CFD))) (- (max (min RQ CTD) (/ (/ CFD FUT) (min RQ FUT))) (* (/ CFD FULL) (min RQ CTD))))))
