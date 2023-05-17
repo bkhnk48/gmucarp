@@ -209,6 +209,7 @@ public class GPResult {
                 }
             }
         } catch (IOException e) {
+        	System.out.println("Working Directory = " + System.getProperty("user.dir"));
             e.printStackTrace();
         }
 
